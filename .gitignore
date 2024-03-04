@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/.vs/
+/DummyWindowsService/.vs/
+/DummyWindowsService/x64/
+/DummyWindowsService/DummyWindowsService/Debug/
+/DummyWindowsService/DummyWindowsService/x64/
+/DummyWindowsService/DummyWindowsExe/bin/
+/DummyWindowsService/DummyWindowsExe/obj/
+
